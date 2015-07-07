@@ -1,0 +1,1 @@
+A simple app that allows you to set how much money is in your account, and provides buttons for quickly adding and subtracting money while on the go.  Allows you to more effectively keep track of what is in your account than you would get depending on your bank's website, since transactions can sometimes take a long time to go through and it is easy to forget.
